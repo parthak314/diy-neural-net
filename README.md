@@ -1,2 +1,2 @@
 # diy-neural-net
-Creating a neural network from scratch using the MNIST database
+[webpage](https://www.youtube.com/watch?v=w8yWXqWQYmU&t=3s)
